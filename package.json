@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mail-listener2": "^0.3.1",
+    "nylas": "^7.9.0"
+  }
+}
